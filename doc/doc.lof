@@ -1,0 +1,10 @@
+\setforeignlanguage {english}
+\contentsline {figure}{\numberline {1}{\ignorespaces How to access Axonometric projections ipelet fuctions and settings.}}{2}{figure.caption.4}%
+\setforeignlanguage {english}
+\contentsline {figure}{\numberline {2}{\ignorespaces Basic demonstration of the main three projection functions ($\mitphi =\SI {-60}{\degree }$, $\mittheta =\SI {40}{\degree }$, $\mitphi =\SI {0}{\degree }$).}}{2}{figure.caption.5}%
+\setforeignlanguage {english}
+\contentsline {figure}{\numberline {3}{\ignorespaces Relation between the coordinate system of the drawing plane (blue) and the coordinate system in which the projected 3D geometry exists (red).}}{3}{figure.caption.6}%
+\setforeignlanguage {english}
+\contentsline {figure}{\numberline {4}{\ignorespaces A simple demo -- drawing a cuboid using the default axonometric projection with angles $ \mitphi =\SI {30}{\degree } $, $ \mittheta =\SI {30}{\degree } $, $ \mitpsi =\SI {0}{\degree } $.}}{4}{figure.caption.7}%
+\setforeignlanguage {english}
+\contentsline {figure}{\numberline {5}{\ignorespaces The original coordinate system (blue) is first rotated in the 3D space (red) and this new system is then projected onto the $yz$ plane -- drawing plane (green). In this case, $yz$ plane projection is demonstrated.}}{6}{figure.caption.8}%

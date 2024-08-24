@@ -1,0 +1,10 @@
+\selectlanguage *[]{english}
+\contentsline {section}{About}{2}{section*.3}%
+\contentsline {section}{\numberline {1}Using the ipelet}{2}{section.1}%
+\contentsline {section}{\numberline {2}A simple demo}{3}{section.2}%
+\contentsline {section}{\numberline {3}Mathematical background}{5}{section.3}%
+\contentsline {section}{Appendix A: Extra rotations}{8}{section*.9}%
+\contentsline {section}{Appendix B: Examples of use}{9}{section*.10}%
+\contentsline {subsection}{\numberline {3.1}Electromagnetic wave}{9}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Optical abberation}{9}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Cylindrical coordinates}{9}{subsection.3.3}%
